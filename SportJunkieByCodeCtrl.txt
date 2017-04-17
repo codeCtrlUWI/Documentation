@@ -4,11 +4,11 @@ https://official-sjapp.firebaseapp.com/login - Dashboard
 
 The following links provide access to all the code: 
 
-Main Website:
+Main Mobile App
 https://github.com/codeCtrlUWI/sportJunkieMobile
 
 Dashboard
 https://github.com/codeCtrlUWI/sportJunkieDashboard
 
-Main Mobile App
+Main Website:
 https://github.com/codeCtrlUWI/sportJunkieMain
