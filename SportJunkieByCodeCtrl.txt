@@ -1,0 +1,13 @@
+https://sjapp-4c72a.firebaseapp.com/#/signin - Main App
+
+https://official-sjapp.firebaseapp.com/login - Dashboard
+
+https://github.com/codeCtrlUWI/Documentation - this link gives access to the final project report, the read me file and the app APK.
+
+The following links provide access to all the code: 
+
+https://github.com/codeCtrlUWI/sportJunkieMobile
+
+https://github.com/codeCtrlUWI/sportJunkieDashboard
+
+https://github.com/codeCtrlUWI/sportJunkieMain
